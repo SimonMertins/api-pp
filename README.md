@@ -38,7 +38,7 @@ using the following steps:
 
 ## credits
 
-* [Code Institute](https://codeinstitute.net) especially the Django Rest Framework project.
+* [Code Institute](https://codeinstitute.net) especially the Django Rest Framework project. almost all of the code is from th drf api project.
 
 * [Heroku](heroku.com)
 
